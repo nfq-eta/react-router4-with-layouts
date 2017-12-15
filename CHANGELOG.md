@@ -1,6 +1,14 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2017-12-15)
+
+* Fix engine requirements. Add release notices ([2234654](https://github.com/nfq-eta/react-router4-with-layouts/commit/2234654))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2017-12-15)
 
+* chore(release): 1.0.1 ([3fe8dd8](https://github.com/nfq-eta/react-router4-with-layouts/commit/3fe8dd8))
 * Add settings for yarn ([6ab3db0](https://github.com/nfq-eta/react-router4-with-layouts/commit/6ab3db0))
 * Fix engine requirements ([a6eaff3](https://github.com/nfq-eta/react-router4-with-layouts/commit/a6eaff3))
 
