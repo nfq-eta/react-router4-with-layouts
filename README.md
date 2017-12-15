@@ -42,6 +42,8 @@ export default class App extends Component {
 ## Todo:
 * [ ] Add tests
 * [ ] Refactor example and use StoryBook
+* [ ] Add travis to publish new releases
+* [x] Add changelog
 
 ## License
 

@@ -18,7 +18,6 @@
     "start": "rollup -c -w",
     "lint": "eslint src/**/*.jsx",
     "prepublish": "yarn build",
-    "postpublish": "github-release-from-changelog",
     "predeploy": "cd example && yarn && yarn build",
     "deploy": "gh-pages -d example/build",
     "version": "conventional-changelog -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
