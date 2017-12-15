@@ -1,0 +1,17 @@
+:local .default {
+    background-color: silver;
+    padding: 5px;
+    margin: 5px;
+}
+
+:local .login {
+    background-color: azure;
+    padding: 5px;
+    margin: 5px;
+}
+
+:local .main {
+    background-color: beige;
+    padding: 10px;
+    margin: 5px;
+}

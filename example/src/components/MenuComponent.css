@@ -1,0 +1,7 @@
+:local .menu a {
+    margin-right: 10px;
+}
+:global .active {
+    font-weight: bold;
+    color: red;
+}
