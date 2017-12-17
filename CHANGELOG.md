@@ -1,6 +1,14 @@
+<a name="1.2.1"></a>
+## 1.2.1 (2017-12-17)
+
+* build(yarn): remove engine as requirement ([eebe345](https://github.com/nfq-eta/react-router4-with-layouts/commit/eebe345))
+
+
+
 <a name="1.2.0"></a>
 # 1.2.0 (2017-12-17)
 
+* chore(release): 1.2.0 ([c0cfb61](https://github.com/nfq-eta/react-router4-with-layouts/commit/c0cfb61))
 
 
 
