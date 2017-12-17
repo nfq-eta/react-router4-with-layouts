@@ -16,7 +16,7 @@
     "lint": "tslint -c tslint.json -p tsconfig.json -t stylish",
     "prebuild": "rimraf ./dist && yarn lint",
     "build": "tsc -p ./tsconfig.build.json && tsc -p ./tsconfig.build.json --module esnext --target esnext --outDir ./dist/src",
-    "postbuild": "dts-generator --name react-router4-with-layouts --project . --main index --indent '    ' --out typings/index.d.ts",
+    "postbuild": "dts-generator --name react-router4-with-layouts --main react-router4-with-layouts/index --project . --indent '    ' --out typings/index.d.ts",
     "start": "tsc -p ./tsconfig.json --watch",
     "version": "conventional-changelog -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md",
     "predeploy": "cd example && yarn && yarn build",
@@ -42,10 +42,7 @@
     "react": "^16.0.0",
     "react-router-dom": "^4.0.0"
   },
-  "types": [
-    "./dist/index.d.ts",
-    "./typings"
-  ],
+  "types": "./typings/index.d.ts",
   "config": {
     "commitizen": {
       "path": "node_modules/cz-conventional-changelog"

@@ -17,6 +17,6 @@ declare module 'react-router4-with-layouts/index' {
 
 }
 declare module 'react-router4-with-layouts' {
-    import main = require('index');
+    import main = require('react-router4-with-layouts/index');
     export = main;
 }
