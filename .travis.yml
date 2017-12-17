@@ -10,7 +10,7 @@ cache:
     - node_modules
 
 before_install:
-- npm i -g github-release-from-changelog
+  - npm i -g github-release-from-changelog
 
 script:
   - yarn build
@@ -23,7 +23,6 @@ deploy:
     skip_cleanup: true
     on:
       tags: true
-      branch: master
   - provider: pages
     name: Github Pages
     skip_cleanup: true
