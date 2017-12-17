@@ -1,6 +1,14 @@
+<a name="1.2.4"></a>
+## 1.2.4 (2017-12-17)
+
+* ci(travis): Fixind the build process ([4cf5522](https://github.com/nfq-eta/react-router4-with-layouts/commit/4cf5522))
+
+
+
 <a name="1.2.3"></a>
 ## 1.2.3 (2017-12-17)
 
+* chore(release): 1.2.3 ([1c0b16f](https://github.com/nfq-eta/react-router4-with-layouts/commit/1c0b16f))
 * ci(travis): Add CI ([72c5721](https://github.com/nfq-eta/react-router4-with-layouts/commit/72c5721))
 
 
