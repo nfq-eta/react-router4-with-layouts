@@ -1,6 +1,13 @@
+<a name="1.1.5"></a>
+## 1.1.5 (2017-12-17)
+
+
+
+
 <a name="1.1.4"></a>
 ## 1.1.4 (2017-12-17)
 
+* chore(release): 1.1.4 ([5922713](https://github.com/nfq-eta/react-router4-with-layouts/commit/5922713))
 
 
 

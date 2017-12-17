@@ -1,6 +1,6 @@
 {
   "name": "react-router4-with-layouts",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "main": "./dist/index.js",
   "jsnext:main": "dist/src/index.js",
   "module": "dist/src/index.js",
@@ -11,6 +11,10 @@
   "homepage": "https://github.com/nfq-eta/react-router4-with-layouts",
   "author": "Vytenis Kučiauskas",
   "license": "MIT",
+  "files": [
+    "dist",
+    "typings"
+  ],
   "scripts": {
     "cm": "git-cz",
     "lint": "tslint -c tslint.json -p tsconfig.json -t stylish",
