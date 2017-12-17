@@ -1,6 +1,6 @@
 {
   "name": "react-router4-with-layouts",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "main": "./dist/index.js",
   "jsnext:main": "dist/src/index.js",
   "module": "dist/src/index.js",
@@ -14,14 +14,13 @@
   "scripts": {
     "cm": "git-cz",
     "lint": "tslint -c tslint.json -p tsconfig.json -t stylish",
-    "prebuild": "rimraf ./dist && yarn lint",
+    "prebuild": "rimraf dist typings example/build && yarn lint",
     "build": "tsc -p ./tsconfig.build.json && tsc -p ./tsconfig.build.json --module esnext --target esnext --outDir ./dist/src",
     "postbuild": "dts-generator --name react-router4-with-layouts --main react-router4-with-layouts/index --project . --indent '    ' --out typings/index.d.ts",
     "start": "tsc -p ./tsconfig.json --watch",
     "version": "conventional-changelog -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md",
     "predeploy": "cd example && yarn && yarn build",
-    "deploy": "gh-pages -d example/build",
-    "prepublish": "yarn build"
+    "deploy": "gh-pages -d example/build"
   },
   "devDependencies": {
     "@types/prop-types": "15.5.2",

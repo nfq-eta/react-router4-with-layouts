@@ -1,6 +1,13 @@
+<a name="1.1.4"></a>
+## 1.1.4 (2017-12-17)
+
+
+
+
 <a name="1.1.1"></a>
 ## 1.1.1 (2017-12-17)
 
+* chore(release): 1.1.1 ([9fbc96d](https://github.com/nfq-eta/react-router4-with-layouts/commit/9fbc96d))
 * fix(typescript): Fixed typings ([bcfdef2](https://github.com/nfq-eta/react-router4-with-layouts/commit/bcfdef2))
 
 
