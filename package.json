@@ -24,7 +24,8 @@
     "start": "tsc -p ./tsconfig.json --watch",
     "version": "conventional-changelog -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md",
     "predeploy": "cd example && yarn && yarn build",
-    "deploy": "gh-pages -d example/build"
+    "deploy": "gh-pages -d example/build",
+    "prepublish": "yarn build"
   },
   "devDependencies": {
     "@types/prop-types": "15.5.2",
@@ -50,8 +51,5 @@
     "commitizen": {
       "path": "node_modules/cz-conventional-changelog"
     }
-  },
-  "engines": {
-    "yarn": ">= 1.0.0"
   }
 }
