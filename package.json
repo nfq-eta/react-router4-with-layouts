@@ -17,13 +17,13 @@
   "scripts": {
     "cm": "git-cz",
     "lint": "tslint -c tslint.json -p tsconfig.json -t stylish",
-    "build:example": "cd example && yarn && yarn build --no-lockfile",
+    "build:example": "cd example && yarn --no-lockfile && yarn build",
     "prebuild": "rimraf lib typings example/build && yarn lint",
     "build": "tsc -d && tsc -m es6 -d --outDir lib/es && tsc -m esnext -t esnext -d --outDir lib/src && tsc -m umd -t es5 --outDir lib/umd",
     "postbuild": "dts-generator --name react-router4-with-layouts --main react-router4-with-layouts/index --project . --indent '    ' --out typings/index.d.ts",
     "start": "tsc -p ./tsconfig.json --watch",
     "version": "conventional-changelog -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md",
-    "predeploy": "cd example && yarn && yarn build",
+    "predeploy": "yarn build:example",
     "deploy": "gh-pages -d example/build",
     "prepublish": "yarn build"
   },
