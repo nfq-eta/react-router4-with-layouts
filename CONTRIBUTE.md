@@ -11,4 +11,5 @@
 
 ### Pull request
 1. Respect the eslint rules
+1. Commit using `yarn cm` command
 1. Add tests if possible (currently not)

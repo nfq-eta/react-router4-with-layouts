@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Route } from 'react-router4-with-layouts';
+import { Route } from './dist/index';
 import { Router, Switch } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
 
@@ -12,6 +12,7 @@ const history = createBrowserHistory();
 
 export default class App extends Component {
   render () {
+    console.log(HomePage);
     return (
       <Router history={history}>
         <Switch>

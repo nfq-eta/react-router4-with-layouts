@@ -5172,7 +5172,7 @@ react-router-dom@^4.2.2:
     react-router "^4.2.0"
     warning "^3.0.0"
 
-react-router4-with-layouts@^1.0.0:
+react-router4-with-layouts@^0.0.1:
   version "1.0.9"
   resolved "https://registry.yarnpkg.com/react-router4-with-layouts/-/react-router4-with-layouts-1.0.9.tgz#d6a8a289cd62dba93e7b955a4ab7658ce0c92339"
 
