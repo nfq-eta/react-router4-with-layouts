@@ -1,6 +1,14 @@
+<a name="1.2.2"></a>
+## 1.2.2 (2017-12-17)
+
+* build(umd): add es, umd, jsnext to builds ([73a815a](https://github.com/nfq-eta/react-router4-with-layouts/commit/73a815a))
+
+
+
 <a name="1.2.1"></a>
 ## 1.2.1 (2017-12-17)
 
+* chore(release): 1.2.1 ([2d52dfc](https://github.com/nfq-eta/react-router4-with-layouts/commit/2d52dfc))
 * build(yarn): remove engine as requirement ([eebe345](https://github.com/nfq-eta/react-router4-with-layouts/commit/eebe345))
 
 
