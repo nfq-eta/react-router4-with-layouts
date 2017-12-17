@@ -1,6 +1,13 @@
+<a name="1.2.0"></a>
+# 1.2.0 (2017-12-17)
+
+
+
+
 <a name="1.1.7"></a>
 ## 1.1.7 (2017-12-17)
 
+* chore(release): 1.1.7 ([bbd1ab8](https://github.com/nfq-eta/react-router4-with-layouts/commit/bbd1ab8))
 
 
 
