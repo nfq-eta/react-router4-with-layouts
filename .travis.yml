@@ -16,6 +16,14 @@ script:
   - yarn build
 
 deploy:
+  - provider: npm
+    name: NPM
+    email: $NPM_EMAIL
+    api_key: $NPM_AUTH_TOKEN
+    skip_cleanup: true
+    on:
+      tags: true
+      branch: master
   - provider: pages
     name: Github Pages
     skip_cleanup: true
