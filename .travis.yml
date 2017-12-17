@@ -20,7 +20,7 @@ deploy:
     name: Github Pages
     skip_cleanup: true
     github_token: $GITHUB_TOKEN
-    local_dir: dist
+    local_dir: example/build
     on:
       branch: master
   - provider: script

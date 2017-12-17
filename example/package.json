@@ -10,7 +10,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-router-dom": "^4.2.2",
-    "react-router4-with-layouts": "^0.0.1"
+    "react-router4-with-layouts": "*"
   },
   "scripts": {
     "start": "react-scripts start",

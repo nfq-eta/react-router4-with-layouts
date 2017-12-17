@@ -6,7 +6,7 @@
     "./node_modules/@types/**/*"
   ],
   "compilerOptions": {
-    "outDir": "./dist",
+    "outDir": "./lib",
     "baseUrl": "./src",
     "typeRoots": [
       "./node_modules/@types",
@@ -22,7 +22,6 @@
     "jsx": "react",
     "moduleResolution": "node",
     "module": "commonjs",
-    "target": "es5",
-    "lib": ["dom", "es2015"]
+    "target": "es5"
   }
 }
