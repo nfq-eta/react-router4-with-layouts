@@ -1,14 +1,13 @@
 {
   "name": "react-router4-with-layouts",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "main": "lib/index.js",
   "module": "lib/es/index.js",
   "jsnext:main": "lib/src/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:nfq-eta/react-router4-with-layouts.git"
+    "url": "https://github.com/nfq-eta/react-router4-with-layouts.git"
   },
-  "homepage": "https://github.com/nfq-eta/react-router4-with-layouts",
   "author": "Vytenis Kučiauskas",
   "license": "MIT",
   "files": [

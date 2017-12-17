@@ -1,6 +1,14 @@
+<a name="1.2.5"></a>
+## 1.2.5 (2017-12-17)
+
+* ci(travis): travis ([012a0d4](https://github.com/nfq-eta/react-router4-with-layouts/commit/012a0d4))
+
+
+
 <a name="1.2.4"></a>
 ## 1.2.4 (2017-12-17)
 
+* chore(release): 1.2.4 ([a5a3cc5](https://github.com/nfq-eta/react-router4-with-layouts/commit/a5a3cc5))
 * ci(travis): Fixind the build process ([4cf5522](https://github.com/nfq-eta/react-router4-with-layouts/commit/4cf5522))
 
 
