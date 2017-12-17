@@ -13,3 +13,8 @@
 1. Respect the eslint rules
 1. Commit using `yarn cm` command
 1. Add tests if possible (currently not)
+
+### Release new version
+1. Commit all changes `git add .` then `yarn cm`
+1. Release new version `yarn version`
+1. Push all changes with TAGS to master branch
