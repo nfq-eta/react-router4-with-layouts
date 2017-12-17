@@ -1,8 +1,16 @@
+<a name="1.1.1"></a>
+## 1.1.1 (2017-12-17)
+
+* fix(typescript): Fixed typings ([bcfdef2](https://github.com/nfq-eta/react-router4-with-layouts/commit/bcfdef2))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2017-12-17)
 
-* feat(typescript): TypeScript version of a plugin ([0dc25a3](https://github.com/nfq-eta/react-router4-with-layouts/commit/0dc25a3))
 * chore(release): 1.0.2 ([f046d63](https://github.com/nfq-eta/react-router4-with-layouts/commit/f046d63))
+* chore(release): 1.1.0 ([4e92513](https://github.com/nfq-eta/react-router4-with-layouts/commit/4e92513))
+* feat(typescript): TypeScript version of a plugin ([0dc25a3](https://github.com/nfq-eta/react-router4-with-layouts/commit/0dc25a3))
 
 
 ### BREAKING CHANGE
