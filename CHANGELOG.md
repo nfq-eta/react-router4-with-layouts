@@ -1,12 +1,19 @@
+<a name="1.2.7"></a>
+## 1.2.7 (2018-03-25)
+
+
+
+
 <a name="1.2.6"></a>
 ## 1.2.6 (2017-12-17)
 
+* chore(release): 1.2.4 ([f2e1c63](https://github.com/nfq-eta/react-router4-with-layouts/commit/f2e1c63))
+* chore(release): 1.2.6 ([b307806](https://github.com/nfq-eta/react-router4-with-layouts/commit/b307806))
 * deploy demo page ([03c624a](https://github.com/nfq-eta/react-router4-with-layouts/commit/03c624a))
 * deploy demo page ([df84b46](https://github.com/nfq-eta/react-router4-with-layouts/commit/df84b46))
 * deploy demo page ([16ee67f](https://github.com/nfq-eta/react-router4-with-layouts/commit/16ee67f))
 * Update .travis.yml ([c4302ca](https://github.com/nfq-eta/react-router4-with-layouts/commit/c4302ca))
 * Update README.md ([b8f7e58](https://github.com/nfq-eta/react-router4-with-layouts/commit/b8f7e58))
-* chore(release): 1.2.4 ([f2e1c63](https://github.com/nfq-eta/react-router4-with-layouts/commit/f2e1c63))
 * fix(example): Fix example ([f6591c3](https://github.com/nfq-eta/react-router4-with-layouts/commit/f6591c3))
 
 
