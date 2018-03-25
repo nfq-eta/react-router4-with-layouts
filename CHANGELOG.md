@@ -1,6 +1,7 @@
 <a name="1.2.7"></a>
 ## 1.2.7 (2018-03-25)
 
+* chore(release): 1.2.7 ([ff398f7](https://github.com/nfq-eta/react-router4-with-layouts/commit/ff398f7))
 
 
 
