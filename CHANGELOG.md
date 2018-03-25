@@ -1,3 +1,10 @@
+<a name="1.2.8"></a>
+## 1.2.8 (2018-03-25)
+
+* Add and move tslib to dependencies ([538808b](https://github.com/nfq-eta/react-router4-with-layouts/commit/538808b))
+
+
+
 <a name="1.2.7"></a>
 ## 1.2.7 (2018-03-25)
 
