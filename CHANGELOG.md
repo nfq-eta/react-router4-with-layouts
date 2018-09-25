@@ -1,6 +1,13 @@
+<a name="1.3.0"></a>
+# 1.3.0 (2018-09-25)
+
+
+
+
 <a name="1.2.9"></a>
 ## 1.2.9 (2018-09-25)
 
+* chore(release): 1.2.9 ([86a7252](https://github.com/nfq-eta/react-router4-with-layouts/commit/86a7252))
 * fix(source): Source maps issue ([5a195da](https://github.com/nfq-eta/react-router4-with-layouts/commit/5a195da)), closes [#4](https://github.com/nfq-eta/react-router4-with-layouts/issues/4)
 
 
