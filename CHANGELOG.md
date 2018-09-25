@@ -1,6 +1,14 @@
+<a name="1.2.9"></a>
+## 1.2.9 (2018-09-25)
+
+* fix(source): Source maps issue ([5a195da](https://github.com/nfq-eta/react-router4-with-layouts/commit/5a195da)), closes [#4](https://github.com/nfq-eta/react-router4-with-layouts/issues/4)
+
+
+
 <a name="1.2.8"></a>
 ## 1.2.8 (2018-03-25)
 
+* chore(release): 1.2.8 ([090aadb](https://github.com/nfq-eta/react-router4-with-layouts/commit/090aadb))
 * Add and move tslib to dependencies ([538808b](https://github.com/nfq-eta/react-router4-with-layouts/commit/538808b))
 
 
