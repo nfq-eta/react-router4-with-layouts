@@ -1,6 +1,13 @@
+<a name="1.3.1"></a>
+## 1.3.1 (2018-09-26)
+
+
+
+
 <a name="1.3.0"></a>
 # 1.3.0 (2018-09-25)
 
+* chore(release): 1.3.0 ([a43c941](https://github.com/nfq-eta/react-router4-with-layouts/commit/a43c941))
 
 
 
