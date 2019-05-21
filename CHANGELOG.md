@@ -1,6 +1,14 @@
+<a name="1.4.0"></a>
+# 1.4.0 (2019-05-21)
+
+* fix(PropTypes): Fixed prop types, now can be extended (#5) ([f1ec72b](https://github.com/nfq-eta/react-router4-with-layouts/commit/f1ec72b)), closes [#5](https://github.com/nfq-eta/react-router4-with-layouts/issues/5)
+
+
+
 <a name="1.3.1"></a>
 ## 1.3.1 (2018-09-26)
 
+* chore(release): 1.3.1 ([d9c0801](https://github.com/nfq-eta/react-router4-with-layouts/commit/d9c0801))
 
 
 
