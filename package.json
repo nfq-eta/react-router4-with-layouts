@@ -46,7 +46,7 @@
   "peerDependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
-    "react-router-dom": "^4.0.0"
+    "react-router-dom": "*"
   },
   "typings": "./typings/index.d.ts",
   "config": {

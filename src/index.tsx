@@ -4,7 +4,6 @@ import { Route as ReactRoute, RouteProps } from 'react-router-dom';
 
 export interface IRouteProps {
     layout?: React.ComponentType<RouteProps> | React.ComponentType<any>;
-    component: React.ComponentType<RouteProps> | React.ComponentType<any>;
 }
 
 export class Route extends React.Component<IRouteProps & RouteProps, {}> {
@@ -14,10 +13,6 @@ export class Route extends React.Component<IRouteProps & RouteProps, {}> {
             PropTypes.func,
             PropTypes.node,
         ]),
-        component: PropTypes.oneOfType([
-            PropTypes.func,
-            PropTypes.node,
-        ]).isRequired,
     };
 
     render() {
