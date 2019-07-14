@@ -45,9 +45,9 @@
         "prefer-method-signature": false,
         "prefer-template": [true, "allow-single-concat"],
         "semicolon": [true, "ignore-bound-class-methods"],
-        "strict-boolean-expressions": [false], // TODO: turn it on
+        "strict-boolean-expressions": [false],
         "ter-indent": [true, 4],
-        "quotemark": [true, "single", "jsx-double"],
+        "quotemark": [true, "single", "jsx-single"],
         "triple-equals": [true, "allow-null-check"],
         "typedef": [true,"parameter", "property-declaration"],
         "variable-name": [true, "ban-keywords", "check-format", "allow-pascal-case", "allow-leading-underscore"],

@@ -1,0 +1,5 @@
+{
+    "jira-plugin.workingProject": "",
+    "tslint.jsEnable": true,
+    "tslint.packageManager": "yarn"
+}

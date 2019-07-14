@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
-import styles from './Page.css';
-import { Link } from 'react-router-dom';
+import styles from "./Page.css";
+import { Link } from "react-router-dom";
 
 export class LoginPage extends Component {
   render() {

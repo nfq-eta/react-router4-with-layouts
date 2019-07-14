@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
+import React, { Component } from "react";
+import PropTypes from "prop-types";
 
-import styles from './Layout.css';
-import { MenuComponent } from '../components/MenuComponent';
+import styles from "./Layout.css";
+import { MenuComponent } from "../components/MenuComponent";
 
 export class DefaultLayout extends Component {
   render() {

@@ -1,27 +1,15 @@
 {
-  "include": [
-    "./src/**/*",
-    "./test/**/*",
-    "./typings/**/*",
-    "./node_modules/@types/**/*"
-  ],
   "compilerOptions": {
-    "outDir": "./lib",
-    "baseUrl": "./src",
-    "typeRoots": [
-      "./node_modules/@types",
-      "./typings"
-    ],
-    "noImplicitAny": true,
-    "noImplicitThis": true,
-    "noUnusedLocals": true,
-    "experimentalDecorators": true,
-    "allowSyntheticDefaultImports": false,
-    "sourceMap": true,
-    "importHelpers": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
     "jsx": "react",
+    "lib": ["es6", "dom"],
     "moduleResolution": "node",
-    "module": "commonjs",
-    "target": "es5"
-  }
+    "noEmit": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "baseUrl": ".",
+  },
+  "exclude": ["node_modules"]
 }

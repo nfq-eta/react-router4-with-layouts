@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
+import React, { Component } from "react";
+import PropTypes from "prop-types";
 
-import styles from './Layout.css';
+import styles from "./Layout.css";
 
 export class EmptyLayout extends Component {
   render() {

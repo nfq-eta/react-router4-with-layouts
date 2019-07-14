@@ -17,6 +17,9 @@ export class Route extends React.Component<IRouteProps & RouteProps, {}> {
 
     render() {
         const { component, layout, ...rest } = this.props;
+        if (!component) {
+            return;
+        }
         let routeComponent = (props: any) => React.createElement(component, props);
 
         if (layout) {
