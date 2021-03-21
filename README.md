@@ -3,7 +3,7 @@
 > Allow Router to have layout prop with typescript definitions
 
 [![NPM](https://img.shields.io/npm/v/react-router4-with-layouts.svg)](https://www.npmjs.com/package/react-router4-with-layouts)
-[![build](https://api.travis-ci.org/nfq-eta/react-router4-with-layouts.svg?branch=master)](https://travis-ci.org/github/nfq-eta/react-router4-with-layouts)
+[![build](https://api.travis-ci.com/nfq-eta/react-router4-with-layouts.svg?branch=master)](https://travis-ci.com/github/nfq-eta/react-router4-with-layouts)
 
 ## Install
 
