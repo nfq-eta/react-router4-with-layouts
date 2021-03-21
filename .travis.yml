@@ -13,6 +13,7 @@ before_install:
   - npm i -g github-release-from-changelog
 
 script:
+  - yarn build
   - yarn build:example
 
 deploy:
