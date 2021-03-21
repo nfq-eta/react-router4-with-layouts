@@ -10,9 +10,8 @@
 1. `yarn start` 
 
 ### Pull request
-1. Respect the eslint rules
+1. Respect the tslint rules
 1. Commit using `yarn cm` command
-1. Add tests if possible (currently not)
 
 ### Release new version
 1. Commit all changes `git add .` then `yarn cm`

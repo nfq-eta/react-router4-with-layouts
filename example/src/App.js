@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Route } from "../../lib/index";
+import { Route } from "react-router4-with-layouts";
 import { BrowserRouter, Switch } from "react-router-dom";
 
 import { DefaultLayout } from "./layouts/DefaultLayout";

@@ -24,7 +24,7 @@
     "lint": "tslint -c tslint.json -p tsconfig.json -t stylish",
     "prebuild": "yarn clean && yarn lint",
     "build": "microbundle build --globals react=React --jsx React.createElement --no-sourcemap",
-    "build:example": "cd example && yarn --no-lockfile && yarn build",
+    "build:example": "yarn link && cd example && yarn link \"react-router4-with-layouts\" && yarn --no-lockfile && yarn build",
     "start": "tsc -p ./tsconfig.json --watch",
     "version": "conventional-changelog -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md",
     "predeploy": "yarn build:example",
