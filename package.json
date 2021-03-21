@@ -1,6 +1,6 @@
 {
   "name": "react-router4-with-layouts",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "main": "./lib/index.js",
   "exports": "./lib/index.modern.js",
   "module": "./lib/index.module.js",
@@ -20,7 +20,7 @@
   ],
   "scripts": {
     "cm": "git-cz",
-    "clean":"rimraf lib example/build",
+    "clean": "rimraf lib example/build",
     "lint": "tslint -c tslint.json -p tsconfig.json -t stylish",
     "prebuild": "yarn clean && yarn lint",
     "build": "microbundle build --globals react=React --jsx React.createElement --no-sourcemap",

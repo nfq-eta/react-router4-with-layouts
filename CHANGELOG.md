@@ -1,5 +1,18 @@
+## <small>1.4.2 (2021-03-21)</small>
+
+* docs(example): update demo app ([b6ece59](https://github.com/nfq-eta/react-router4-with-layouts/commit/b6ece59))
+* docs(example): updated example app ([41717d9](https://github.com/nfq-eta/react-router4-with-layouts/commit/41717d9))
+* ci(builder): now using microbundler ([15cbe9c](https://github.com/nfq-eta/react-router4-with-layouts/commit/15cbe9c))
+* ci(travis): lts node version ([a3ebc55](https://github.com/nfq-eta/react-router4-with-layouts/commit/a3ebc55))
+* ci(travis): update node version ([66161f0](https://github.com/nfq-eta/react-router4-with-layouts/commit/66161f0))
+* build(deps): bump handlebars from 4.1.2 to 4.5.3 (#11) ([668967e](https://github.com/nfq-eta/react-router4-with-layouts/commit/668967e)), closes [#11](https://github.com/nfq-eta/react-router4-with-layouts/issues/11)
+* build(deps): bump ini from 1.3.5 to 1.3.7 ([be01b20](https://github.com/nfq-eta/react-router4-with-layouts/commit/be01b20))
+
+
+
 ## <small>1.4.1 (2019-07-14)</small>
 
+* chore(release): 1.4.1 ([f47a77c](https://github.com/nfq-eta/react-router4-with-layouts/commit/f47a77c))
 * fix(security): multiple security issues ([68a8c3a](https://github.com/nfq-eta/react-router4-with-layouts/commit/68a8c3a))
 * build(deps): bump diff from 3.4.0 to 3.5.0 (#7) ([042c8b3](https://github.com/nfq-eta/react-router4-with-layouts/commit/042c8b3)), closes [#7](https://github.com/nfq-eta/react-router4-with-layouts/issues/7)
 * build(deps): bump extend from 3.0.1 to 3.0.2 (#10) ([6345f28](https://github.com/nfq-eta/react-router4-with-layouts/commit/6345f28)), closes [#10](https://github.com/nfq-eta/react-router4-with-layouts/issues/10)
