@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
@@ -11,5 +13,6 @@
     "noImplicitAny": true,
     "baseUrl": ".",
   },
+  "include": ["src"],
   "exclude": ["node_modules"]
 }
